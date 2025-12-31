@@ -5,6 +5,9 @@ Built a full-stack web application that allows users to manage weather sensors a
 
 The project was completed within 10 days, demonstrating full-stack development, REST API integration, and containerization.
 
+<img src="wsm-1.png" alt="Overview" width="400"/>
+<img src="wsm-2.png" alt="Detail" width="400"/>
+
 ## Tech Stack
 - PostgreSQL
 - Django
@@ -18,9 +21,9 @@ The project was completed within 10 days, demonstrating full-stack development, 
 1. In the root directory, create an `.env` file with the following contents:
 
 ```
-POSTGRES_DB=<pgname>
-POSTGRES_USER=<pguser>
-POSTGRES_PASSWORD=<pgpassword>
+POSTGRES_DB=pgname
+POSTGRES_USER=pguser
+POSTGRES_PASSWORD=pgpassword
 ```
 
 2. Open a command line tool in the root directory and run the following commands:
