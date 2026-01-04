@@ -10,6 +10,7 @@ The project was completed within 10 days, demonstrating full-stack development, 
 
 ## Tech Stack
 - PostgreSQL
+- Python
 - Django
 - React
 - Docker
